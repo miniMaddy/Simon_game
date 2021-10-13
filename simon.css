@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    color:aqua;
+}
+td {
+    padding: 20px;
+    background-color: blue;
+    align-content: center;
+    border-color: black;
+}
